@@ -1,4 +1,8 @@
 def using_while
-con
+ counter = 6
+ while counter > 10
+puts 
+counter 
+
  end
  
